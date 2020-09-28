@@ -13,7 +13,7 @@ Coming Soon WebPage under construction
     <a href="https://mdmazlan.github.io/Coming-Soon-Coundown-Page">Website Preview Live</a>
     <br />
     <br />
-    <img src="/Preview.jpg" width="80%"/>
+    <img src="/preview_screenshot.jpg" width="80%"/>
   </p>
 </p>
 
